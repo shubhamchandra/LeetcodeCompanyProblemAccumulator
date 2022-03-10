@@ -7,7 +7,7 @@ To run this program you will need chromium driver installed: http://chromedriver
 Set up details:
 https://stackoverflow.com/questions/8255929/running-selenium-webdriver-python-bindings-in-chrome
 
-It runs in headless mode.
+It runs in headless mode in Google Chrome.
 
 You also need to have leetcode subscription.
 
